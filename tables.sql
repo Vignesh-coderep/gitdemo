@@ -26,4 +26,9 @@ VALUES
 select name, tutor_name, session_type,session_payment from session_details;
 
 --his query fetching  only mention the tables name 
+ 
+ select * from session_details;
+ --it will fetch all the session_details from table
+ 
+
 
