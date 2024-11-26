@@ -11,7 +11,7 @@
   session_payment, school_name,student_name, session_category)
   values
   (01,'vignesh','mark','assign_session','isBilled','texos elementary school','cristorper','completed),
-    (02,'tim','mark','ondemand_session','UnBilled' ,'las_engle elementary school' ,'Nikoles' ,'ongoing');
+    (02,'brain','tim','ondemand_session','UnBilled' ,'las_engle elementary school' ,'Nikoles' ,'ongoing');
   
   
   
