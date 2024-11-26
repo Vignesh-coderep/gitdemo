@@ -19,6 +19,9 @@ VALUES
 	(07, 'dowel', 'brown', 'Assiged_session', 'isBilled', 'LA elementary school', 'milborn', 'completed'),
 	(08, 'danny', 'wats', 'Assiged_session', 'UnBilled', 'mindos elementary school', 'menta', 'ongoing'),
 	(09, 'timer', 'ban', 'ondemand_session', 'isBilled', 'fernandas elementary school', 'baribies', 'completed'),
-	(10, 'walman', 'white', 'ondemand_session', 'isBilled', 'milinda elementary school', 'lemones', 'ongoing')
+	(10, 'walman', 'white', 'ondemand_session', 'isBilled', 'milinda elementary school', 'lemones', 'ongoing'),
+	(11,'merlin','bal','assigned_session','UnBilled','EduTech secondary school','mia','farthi', 'completed')
 	;
+	
+
 
