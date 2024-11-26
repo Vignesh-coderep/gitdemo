@@ -22,6 +22,8 @@ VALUES
 	(10, 'walman', 'white', 'ondemand_session', 'isBilled', 'milinda elementary school', 'lemones', 'ongoing'),
 	(11,'merlin','bal','assigned_session','UnBilled','EduTech secondary school','mia','farthi', 'completed')
 	;
-	
 
+select name, tutor_name, session_type,session_payment from session_details;
+
+--his query fetching  only mention the tables name 
 
