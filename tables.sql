@@ -7,18 +7,9 @@
   session_status varchar(30), tutor_name varchar(40),
   school_name varchar(50), student_name varchar(40), session_category varchar(45));
   
-  insert into session_details(session_id, name,tutor_name, session_type,
-  session_payment, school_name,student_name, session_category)
-  values
-  (01,'vignesh','mark','assign_session','isBilled','texos elementary school','cristorper','completed),
-    (02,'brain','tim','ondemand_session','UnBilled' ,'las_engle elementary school' ,'Nikoles' ,'ongoing');
-  
-  
-  
- 
-  
- 
- 
+  INSERT INTO session_details 
+    (session_id, name, tutor_name, session_type, session_payment, school_name, student_name, session_category)
+VALUES
+    (01, 'vignesh', 'mark', 'assign_session', 'isBilled', 'texos elementary school', 'cristorper', 'completed'),
+    (02, 'brain', 'tim', 'ondemand_session', 'UnBilled', 'las_engle elementary school', 'Nikoles', 'ongoing');
 
- 
- 
