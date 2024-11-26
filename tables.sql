@@ -15,6 +15,10 @@ VALUES
 	(03, 'Umesh', 'oconal', 'Assiged_session', 'isBilled', 'Eumandam elementary school', 'Nolan', 'completed'),
 	(04, 'Ela', 'marlin', 'Ondemand_session', 'UnBilled', 'los_wagaes elementary school', 'Stanly', 'completed'),
 	(05, 'Dhana', 'John', 'shedule_session', 'isBilled', 'Balgariyan elementary school', 'Barbe', 'ongoing'),
-	(06, 'a', 'white', 'ondemand_session', 'isBilled', 'mindos elementary school', 'Mentos', 'completed')
+	(06, 'micken', 'top', 'shedule_session', 'UnBilled', 'mindos elementary school', 'Mentos', 'completed'),
+	(07, 'dowel', 'brown', 'Assiged_session', 'isBilled', 'LA elementary school', 'milborn', 'completed'),
+	(08, 'danny', 'wats', 'Assiged_session', 'UnBilled', 'mindos elementary school', 'menta', 'ongoing'),
+	(09, 'timer', 'ban', 'ondemand_session', 'isBilled', 'fernandas elementary school', 'baribies', 'completed'),
+	(10, 'walman', 'white', 'ondemand_session', 'isBilled', 'milinda elementary school', 'lemones', 'ongoing')
 	;
 
