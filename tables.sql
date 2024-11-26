@@ -10,6 +10,11 @@
   INSERT INTO session_details 
     (session_id, name, tutor_name, session_type, session_payment, school_name, student_name, session_category)
 VALUES
-    (01, 'vignesh', 'mark', 'assign_session', 'isBilled', 'texos elementary school', 'cristorper', 'completed'),
-    (02, 'brain', 'tim', 'ondemand_session', 'UnBilled', 'las_engle elementary school', 'Nikoles', 'ongoing');
+    (01, 'Vignesh', 'mark', 'assign_session', 'isBilled', 'texos elementary school', 'cristorper', 'completed'),
+    (02, 'Brain', 'tim', 'ondemand_session', 'UnBilled', 'EduTech elementary school', 'Nikoles', 'ongoing'),
+	(03, 'Umesh', 'oconal', 'Assiged_session', 'isBilled', 'Eumandam elementary school', 'Nolan', 'completed'),
+	(04, 'Ela', 'marlin', 'Ondemand_session', 'UnBilled', 'los_wagaes elementary school', 'Stanly', 'completed'),
+	(05, 'Dhana', 'John', 'shedule_session', 'isBilled', 'Balgariyan elementary school', 'Barbe', 'ongoing'),
+	(06, 'a', 'white', 'ondemand_session', 'isBilled', 'mindos elementary school', 'Mentos', 'completed')
+	;
 
