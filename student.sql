@@ -27,6 +27,7 @@ VALUES
 
 
 --The NOT NULL constraint enforces a column to NOT accept NULL values
+--Which meand that you can't add and update the record without adding the data in the field
 
 student_id varchar(20) not null,
 first_name varchar(20) not null,
@@ -35,6 +36,7 @@ student_standerd varchar(20)
 primary key (student_id)
 );
 
-
- 
+-- alter the data
+alter school_register
+alter column  student_standerd not null;
 
