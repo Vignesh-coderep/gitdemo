@@ -49,3 +49,17 @@ alter column  student_standerd not null;
 -- CHECK - Ensures that the values in a column satisfies a specific condition
 -- DEFAULT - Sets a default value for a column if no value is specified
 -- CREATE INDEX - Used to create and retrieve data from the database very quickly
+
+
+CREATE TABLE payment(
+ 
+ users_id varchar(10) not null,
+order_id varchar(10) not null,
+payment_mode varchar(15) not null,
+platform varchar(10) not null,
+
+primary key(users_id),
+FOREIGN key(order_id) REFERENCES  persons(order_id)
+);
+
+
