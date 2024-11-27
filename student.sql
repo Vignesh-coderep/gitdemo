@@ -22,3 +22,16 @@ VALUES
 (111,'antoney','8th', 'USA', 100),
 (112,'mahi','7th', 'USA', 100);
 
+
+ create table school_register(
+
+student_id varchar(20) not null,
+first_name varchar(20) not null,
+last_name varchar(20)  not null,
+ student_standerd varchar(20) 
+ primary key (student_id)
+);
+
+ 
+ )
+
