@@ -58,8 +58,7 @@ order_id varchar(10) not null,
 payment_mode varchar(15) not null,
 platform varchar(10) not null,
 
-primary key(users_id),
-FOREIGN key(order_id) REFERENCES  persons(order_id)
+FOREIGN key REFERENCES  person(order_id)
 );
 
 
