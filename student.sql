@@ -25,11 +25,14 @@ VALUES
 
  create table school_register(
 
+
+--The NOT NULL constraint enforces a column to NOT accept NULL values
+
 student_id varchar(20) not null,
 first_name varchar(20) not null,
 last_name varchar(20)  not null,
- student_standerd varchar(20) 
- primary key (student_id)
+student_standerd varchar(20) 
+primary key (student_id)
 );
 
  
