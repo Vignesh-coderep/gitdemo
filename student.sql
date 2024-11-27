@@ -35,6 +35,6 @@ student_standerd varchar(20)
 primary key (student_id)
 );
 
+
  
- )
 
