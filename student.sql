@@ -62,3 +62,6 @@ FOREIGN key REFERENCES  person(order_id)
 );
 
 
+create UNIQUE index student_details
+on firstname and lastname;
+
