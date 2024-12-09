@@ -37,3 +37,9 @@ LIMIT 3;
 download,firstName FROM users
 ORDER BY downloads dsc,
 firstName ASC LIMIT 5;
+
+
+
+i have solve the 11 sql interview probelm  most of the topic filtering and order
+concept deeply explain as of now you can utilize
+
